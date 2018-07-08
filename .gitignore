@@ -1,0 +1,3 @@
+*.pyc
+/db.sqlite3
+/gmv/local_settings.py
